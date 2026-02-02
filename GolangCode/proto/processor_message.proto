@@ -2,6 +2,8 @@ syntax = "proto3";
 
 package Pc_Store; 
 option go_package = ".;pb";
+option java_multiple_files = true;
+
 import "memory_message.proto";
 message CPU {
     string brand = 1;
@@ -12,6 +14,8 @@ message CPU {
     double max_ghz = 6;
     
 }
+
+
 
 message GPU {
     string brand = 1;

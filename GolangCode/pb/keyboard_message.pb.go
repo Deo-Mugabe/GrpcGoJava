@@ -140,7 +140,8 @@ const file_keyboard_message_proto_rawDesc = "" +
 	"\n" +
 	"\x06QWERTZ\x10\x02\x12\n" +
 	"\n" +
-	"\x06AZERTY\x10\x03B\x06Z\x04.;pbb\x06proto3"
+	"\x06AZERTY\x10\x03B#\n" +
+	"\x19com.pcstore.grpcgojava.pbP\x01Z\x04.;pbb\x06proto3"
 
 var (
 	file_keyboard_message_proto_rawDescOnce sync.Once

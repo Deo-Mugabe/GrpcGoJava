@@ -3,6 +3,8 @@ syntax = "proto3";
 package Pc_Store; 
 
 option go_package = ".;pb";
+option java_multiple_files = true;
+option java_package = "com.pcstore.grpcgojava.pb";
 
 import "processor_message.proto";
 import "memory_message.proto";

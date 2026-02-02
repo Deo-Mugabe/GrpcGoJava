@@ -211,7 +211,8 @@ const file_screen_message_proto_rawDesc = "" +
 	"\x05Panel\x12\v\n" +
 	"\aUNKNOWN\x10\x00\x12\a\n" +
 	"\x03IPS\x10\x01\x12\b\n" +
-	"\x04OLED\x10\x02B\x06Z\x04.;pbb\x06proto3"
+	"\x04OLED\x10\x02B#\n" +
+	"\x19com.pcstore.grpcgojava.pbP\x01Z\x04.;pbb\x06proto3"
 
 var (
 	file_screen_message_proto_rawDescOnce sync.Once

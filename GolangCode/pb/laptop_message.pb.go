@@ -222,7 +222,8 @@ const file_laptop_message_proto_rawDesc = "" +
 	"\frelease_year\x18\r \x01(\rR\vreleaseYear\x129\n" +
 	"\n" +
 	"updated_at\x18\x0e \x01(\v2\x1a.google.protobuf.TimestampR\tupdatedAtB\b\n" +
-	"\x06weightB\x06Z\x04.;pbb\x06proto3"
+	"\x06weightB#\n" +
+	"\x19com.pcstore.grpcgojava.pbP\x01Z\x04.;pbb\x06proto3"
 
 var (
 	file_laptop_message_proto_rawDescOnce sync.Once

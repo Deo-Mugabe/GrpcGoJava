@@ -133,7 +133,8 @@ const file_storage_message_proto_rawDesc = "" +
 	"\x06Driver\x12\v\n" +
 	"\aUNKNOWN\x10\x00\x12\a\n" +
 	"\x03HDD\x10\x01\x12\a\n" +
-	"\x03SSD\x10\x02B\x06Z\x04.;pbb\x06proto3"
+	"\x03SSD\x10\x02B#\n" +
+	"\x19com.pcstore.grpcgojava.pbP\x01Z\x04.;pbb\x06proto3"
 
 var (
 	file_storage_message_proto_rawDescOnce sync.Once
